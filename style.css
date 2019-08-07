@@ -1,0 +1,56 @@
+body {
+  font-family: 'Saira Stencil One', cursive;
+  margin: 0;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 1440px;
+  justify-content: center;
+}
+
+.nav-bar {
+  height: 70px;
+  background-color: #161f22;
+}
+
+.products {
+  margin: 0 auto;
+}
+
+.product-image {
+
+}
+
+.image {
+  max-width: 500px;
+}
+
+.product-overview {
+  display: flex;
+}
+
+.product-reviews {
+
+}
+
+.cart-box {
+  display: flex;
+}
+
+.color-box {
+  width: 40px;
+  height: 40px;
+  margin: 5px auto;
+}
+
+button{
+  margin: 0 15px;
+  background-color: #0000ef;
+}
+
+.disabledButton {
+  background-color: #efefef;
+}
